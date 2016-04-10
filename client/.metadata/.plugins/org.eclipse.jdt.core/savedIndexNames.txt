@@ -1,0 +1,18 @@
+INDEX VERSION 1.127+/home/bilal/Master/PC2R/ClientServeur-master/client/.metadata/.plugins/org.eclipse.jdt.core
+2417305032.index
+3325539656.index
+2751301128.index
+3840169991.index
+1726579238.index
+2222249353.index
+3734038319.index
+1757353298.index
+2114088712.index
+4120331781.index
+2582920122.index
+372767599.index
+1967897922.index
+2858366831.index
+1692359117.index
+2241722456.index
+3072285995.index
